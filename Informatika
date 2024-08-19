@@ -4,21 +4,23 @@ Internet of Things (IoT) adalah konsep di mana berbagai perangkat, mulai dari be
 
 Bayangkan sebuah rumah pintar: Lampu menyala secara otomatis saat Anda masuk ruangan, termostat menyesuaikan suhu sesuai preferensi Anda, dan kulkas memberi tahu Anda ketika persediaan makanan habis. Semua ini dimungkinkan berkat IoT.
 
+
 ## Bagaimana Cara Kerja IoT?
 
 Secara sederhana, IoT bekerja melalui tiga komponen utama:
 
-1. Sensor: Alat yang mengumpulkan data dari lingkungan sekitar, seperti suhu, kelembapan, cahaya, dan gerakan.
-2. Gateway: Perangkat yang menghubungkan sensor ke internet dan mengirimkan data ke cloud atau pusat data.
-3. Cloud: Platform yang menyimpan dan memproses data yang dikumpulkan oleh sensor. Data ini kemudian digunakan untuk mengambil keputusan dan mengontrol perangkat IoT lainnya.
+* Sensor: Alat yang mengumpulkan data dari lingkungan sekitar, seperti suhu, kelembapan, cahaya, dan gerakan.
+* Gateway: Perangkat yang menghubungkan sensor ke internet dan mengirimkan data ke cloud atau pusat data.
+* Cloud: Platform yang menyimpan dan memproses data yang dikumpulkan oleh sensor. Data ini kemudian digunakan untuk mengambil keputusan dan mengontrol perangkat IoT lainnya.
 
 Proses kerjanya:
 
-* Sensor mengumpulkan data dari lingkungan.
-* Data dikirim ke gateway melalui jaringan nirkabel.
-* Gateway meneruskan data ke cloud melalui internet.
-* Di cloud, data dianalisis dan digunakan untuk mengambil keputusan.
-* Instruksi dari cloud dikirim kembali ke perangkat IoT untuk melakukan tindakan tertentu.
+1. Sensor mengumpulkan data dari lingkungan.
+2. Data dikirim ke gateway melalui jaringan nirkabel.
+3. Gateway meneruskan data ke cloud melalui internet.
+4. Di cloud, data dianalisis dan digunakan untuk mengambil keputusan.
+5. Instruksi dari cloud dikirim kembali ke perangkat IoT untuk melakukan tindakan tertentu.
+
 
 ## Contoh Penerapan IoT
 
@@ -30,6 +32,7 @@ IoT telah mengubah banyak aspek kehidupan kita. Beberapa contoh penerapan IoT ya
 * Transportasi: Kendaraan otonom dan sistem manajemen lalu lintas yang cerdas.
 * Pertanian: Sensor tanah dan cuaca dapat membantu petani mengoptimalkan penggunaan air dan pupuk.
 
+
 ## Manfaat IoT
 
 IoT menawarkan berbagai manfaat, antara lain:
@@ -40,14 +43,16 @@ IoT menawarkan berbagai manfaat, antara lain:
 * Kualitas hidup: Kenyamanan dan kemudahan dalam kehidupan sehari-hari.
 * Inovasi: Membuka peluang untuk pengembangan produk dan layanan baru.
 
-## Kelemahan IoT
 
-Meskipun menawarkan banyak manfaat, IoT juga memiliki beberapa kelemahan, seperti:
+## Kekurangan IoT
+
+Meskipun menawarkan banyak manfaat, IoT juga memiliki beberapa kekurangan, seperti:
 
 * Keamanan: Risiko peretasan dan penyalahgunaan data pribadi.
 * Standarisasi: Kurangnya standar yang seragam untuk perangkat dan protokol IoT.
 * Privasi: Kekhawatiran tentang pengumpulan dan penggunaan data pribadi.
 * Biaya: Biaya implementasi IoT yang masih tinggi untuk beberapa sektor.
+
 
 ## Kesimpulan
 
